@@ -5,7 +5,7 @@
 
 ## Monies
 
-2. [The money nerds](https://www.themoneynerds.com)
+1. [The money nerds](https://www.themoneynerds.com)
 1. [Stacking Benjamins Show](https://www.stackingbenjamins.com)
 1. [Listen Money Matters](https://www.listenmoneymatters.com)
 1. [Afford Anything](http://podcast.affordanything.com/listen/)
@@ -30,7 +30,7 @@
 1. [The Hanselminutes Podcast](https://hanselminutes.com)
 1. [Defrag Tools (video)](https://channel9.msdn.com/Shows/Defrag-Tools)
 1. [RunAs Radio](http://www.runasradio.com)
-2. [PHPUgly](https://www.phpugly.com)
+1. [PHPUgly](https://www.phpugly.com)
 1. [Playing for Fun](https://www.relay.fm/playingforfun)
 1. [Grumpy old Geeks](https://gog.show)
 1. [How I built it](https://howibuilt.it)
