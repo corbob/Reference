@@ -2,10 +2,13 @@
 
 ## Parenting
 
-| Podcast | Wesite | Twitter |
+| Podcast | Website | Twitter |
 |---------|--------|---------|
 | The Longest Shortest Time | [Website](https://longestshortesttime.com) | [@longestshortest](https://twitter.com/longestshortest) |
-* [Mom and Dad are fighting](http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting.html)
+
+| Podcast |  Twitter |
+|---------|----------|
+| [Mom and Dad are fighting](http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting.html) | [@none](https://twitter.com) |
 
 ## Monies
 
