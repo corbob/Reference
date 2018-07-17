@@ -19,7 +19,7 @@
 * [The Vince In The Bay Podcast (VITB)](https://vinceinthebay.com)
 * [Risky.biz](https://risky.biz)
 * [Recorded Future](https://www.recordedfuture.com)
-* [Brakeing Down Incident Response](http://brakeingsecurity.com)
+* [Brakeing Down Incident Response](https://www.imfsecurity.com/podcast/)
 * [Brakeing Down Security](http://brakeingsecurity.com)
 * [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans.html)
 * [The CyberWire](https://thecyberwire.com/)
